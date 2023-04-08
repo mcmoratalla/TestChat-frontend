@@ -1,4 +1,4 @@
-## Getting Started with Create React App
+# Chat App frontend
 
 This project is a test chat app using nodejs, reactjs.
 
